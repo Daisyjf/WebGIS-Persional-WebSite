@@ -11,3 +11,10 @@ A  Java Web Project for WebGIS course . It's a Persional Website covering many a
 4. Complete the deployment of the server-side Java web environment
 5. Complish the deployment of the project.And now it can be visited like this :
 http://47.96.158.130:8080/Persional%20Website_war. 
+
+## 20205.25 22：45
+### modified by Daisy
+1. Complete the design and development of the initial interface.
+2. Complete the project directory interface design.
+3. Complete the migration of the project GISDesktop.
+4. Complete the deployment of the current projec.
